@@ -1,0 +1,13 @@
+C:\Users\Madeira\Documents\workspace\C_SHARP\JurosCompostos\bin\Debug\netcoreapp3.1\JurosCompostos.exe
+C:\Users\Madeira\Documents\workspace\C_SHARP\JurosCompostos\bin\Debug\netcoreapp3.1\JurosCompostos.deps.json
+C:\Users\Madeira\Documents\workspace\C_SHARP\JurosCompostos\bin\Debug\netcoreapp3.1\JurosCompostos.runtimeconfig.json
+C:\Users\Madeira\Documents\workspace\C_SHARP\JurosCompostos\bin\Debug\netcoreapp3.1\JurosCompostos.runtimeconfig.dev.json
+C:\Users\Madeira\Documents\workspace\C_SHARP\JurosCompostos\bin\Debug\netcoreapp3.1\JurosCompostos.dll
+C:\Users\Madeira\Documents\workspace\C_SHARP\JurosCompostos\bin\Debug\netcoreapp3.1\JurosCompostos.pdb
+C:\Users\Madeira\Documents\workspace\C_SHARP\JurosCompostos\obj\Debug\netcoreapp3.1\JurosCompostos.csprojAssemblyReference.cache
+C:\Users\Madeira\Documents\workspace\C_SHARP\JurosCompostos\obj\Debug\netcoreapp3.1\JurosCompostos.AssemblyInfoInputs.cache
+C:\Users\Madeira\Documents\workspace\C_SHARP\JurosCompostos\obj\Debug\netcoreapp3.1\JurosCompostos.AssemblyInfo.cs
+C:\Users\Madeira\Documents\workspace\C_SHARP\JurosCompostos\obj\Debug\netcoreapp3.1\JurosCompostos.csproj.CoreCompileInputs.cache
+C:\Users\Madeira\Documents\workspace\C_SHARP\JurosCompostos\obj\Debug\netcoreapp3.1\JurosCompostos.dll
+C:\Users\Madeira\Documents\workspace\C_SHARP\JurosCompostos\obj\Debug\netcoreapp3.1\JurosCompostos.pdb
+C:\Users\Madeira\Documents\workspace\C_SHARP\JurosCompostos\obj\Debug\netcoreapp3.1\JurosCompostos.genruntimeconfig.cache
